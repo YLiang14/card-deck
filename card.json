@@ -1,0 +1,45 @@
+
+{
+    "petData": [
+            {
+                "species": "Tabby Cat",
+                "image": "image/cat.png",
+                "diet": "dry food, wet food,treats",
+                "Name": "Winter"
+            },
+            {
+                "species": "dachshund",
+                "image": "image/dog2.png",
+                "diet": "dry food, treats",
+                "Name": "Daisy"
+            },
+            {
+           
+                "species": "fantail goldfish",
+                "image": "image/fish.png",
+                "diet": "flakes, pellets",
+                "Name": "Bubbles"
+            },
+            {
+               
+                "species": "cockatiel",
+                "image": "image/bird.png",
+                "diet": "fresh fruits, vegetables, seeds",
+                "Name": "Rocky"
+            },
+            {
+               
+                "species": "albino python",
+                "image": "image/snake.png",
+                "diet": "frozen mice, rats",
+                "Name": "Mustard"
+            },
+            {
+               
+                "species": "polish rabbit",
+                "image": "image/rabbit.png",
+                "diet": "Herbivore (hay, pellets)",
+                "Name": "Snowball"
+            }
+        ]
+}
